@@ -1,6 +1,6 @@
 # 🏡 Real Estate Landing Page
 
-A responsive and professional landing page built for a real estate agency as part of my assignment. This page is designed to help potential buyers easily navigate available services and contact the agency.
+A responsive and professional landing page was built for a real estate agency as part of my assignment. This page is designed to help potential buyers easily navigate available services and contact the agency.
 
 ---
 
@@ -25,7 +25,7 @@ This was my first responsive landing page.
 ---
 
 ## 🚀 Live Demo
-[Click here to view the live demo](https://your-netlify-link.netlify.app)
+[Click here to view the live demo]  (https://your-netlify-link.netlify.app)
 
 ---
 
@@ -53,7 +53,7 @@ Open index.html in your browser.
 
    HTML5 – page structure.
    
-   Vanilla CSS - for edit some classes and adding some faeture.
+   Vanilla CSS - for editing some classes and adding some features.
    
    Tailwind CSS – utility-first responsive design.
 
