@@ -1,0 +1,57 @@
+/* ----Header section------- */
+
+.hero-img{
+    background-image: url(Images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 29rem;
+    align-items: center;
+    align-content: center;
+}
+
+.logo-img{
+    width: 8rem;
+    height: 72px;
+}
+
+.logo-img:hover{
+    cursor: pointer;
+}
+
+
+.p-4 {
+    padding: 0rem 1rem 0rem 1rem;
+}
+
+/* --- About Us ----- */
+.About-img{
+    height: 32rem;
+    width: 100%;
+}
+
+.para-box{
+    width: 19rem;
+    height: 9rem;
+    padding-top: 32px;
+}
+
+.py-16{
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+/* --------Contact Us ------- */
+.contact-banner{
+    background-image: url(Images/contactUs.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+}
+
+
+
+
